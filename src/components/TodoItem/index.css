@@ -1,0 +1,14 @@
+.todoLstItem {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.btn {
+  border: solid 1px #ff0b37;
+  color: #ff0b37;
+  padding: 6px 16px;
+  border-radius: 8px;
+  margin-left: 6px;
+  background-color: #fff;
+}

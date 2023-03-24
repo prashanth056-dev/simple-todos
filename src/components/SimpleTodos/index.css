@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.mainBg {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  background-color: #ffc2a0;
+  height: 100vh;
+}
+.card {
+  background-color: #fff;
+  border-radius: 10px;
+  width: 80%;
+  max-width: 700px;
+  padding: 20px;
+}
+.head {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  color: #ff8542;
+  margin-bottom: 10px;
+}
